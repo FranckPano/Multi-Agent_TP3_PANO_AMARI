@@ -27,6 +27,8 @@ public class MainWindow extends JFrame{
 	static JTextArea operatorText;
 	static JTextArea observatorText;
 	
+	int test = 0;
+	
 	public MainWindow(){
 		
 		this.setTitle("Système Multi-Agents : Observer / Operator");
